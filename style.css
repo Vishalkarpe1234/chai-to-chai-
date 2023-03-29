@@ -1,0 +1,28 @@
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.team-member {
+	display: inline-block;
+	margin: 20px;
+	text-align: center;
+}
+
+.team-member img {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	object-fit: cover;
+}
+
+.team-member h2 {
+	margin-top: 10px;
+	font-size: 24px;
+}
+
+.team-member p {
+	margin-top: 5px;
+	font-size: 18px;
+}
